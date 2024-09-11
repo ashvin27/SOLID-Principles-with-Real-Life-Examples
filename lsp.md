@@ -1,4 +1,4 @@
-# Open/Closed Principle (OCP)
+# Liskov Substitution Principle (LSP)
 **Definition:** Subtypes must be substitutable for their base types without altering the correctness of the program.
 
 ### Example: Media Player System
